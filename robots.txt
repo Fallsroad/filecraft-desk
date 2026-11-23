@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fallsroad.github.io/filecraft-desk/sitemap.xml
